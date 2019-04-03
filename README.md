@@ -1,5 +1,5 @@
 # CAE_with_DeepLearning
-「熱計算の逆問題を解いてみた」向け
+技ラボ記事「[クラウドプラットフォームによるＣＡＥとＡＩの融合 ～熱拡散問題の逆問題を Deep Learning で解く～](http://wazalabo.com/cae-ai.html)」向けコード
 
 ## ipynb ファイル
 - cae_first.ipynb
